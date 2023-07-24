@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Harvard University",
+      "image": "https://img.freepik.com/free-photo/harvard-university-cambridge-usa_1268-14363.jpg?size=626&ext=jpg&ga=GA1.1.395721289.1684420159&semt=ais",
+      "admission_dates": "Fall 2023: Oct 1 - Oct 31",
+      "events": ["Alumni Reunion", "Homecoming Festival", "Orientation Week", "Career Fair"],
+      "research_history": "Founded in 1636, Harvard has a rich history of research and innovation.",
+      "sports": ["Football", "Basketball", "Tennis"]
+    },
+    {
+      "id": 2,
+      "name": "Yale University",
+      "image": "https://img.freepik.com/premium-photo/king-s-college-chapel-cambridge_1339-82841.jpg?size=626&ext=jpg&ga=GA1.1.395721289.1684420159&semt=ais",
+      "admission_dates": "Fall 2023: Oct 1 - Nov 15",
+      "events": ["Alumni Reunion", "Founders' Day", "Spring Fling", "Art Exhibition"],
+      "research_history": "Yale's research initiatives have contributed to various academic fields.",
+      "sports": ["Squash", "Hockey", "Fencing"]
+    },
+    {
+      "id": 3,
+      "name": "Stanford University",
+      "image": "https://img.freepik.com/free-photo/aerial-view-residence-bukovinian-dalmatian-metropolitans-chernivtsi-national-university-chernivtsi-touristic-destination-western-ukraine_231208-41.jpg?size=626&ext=jpg&ga=GA1.2.395721289.1684420159&semt=ais",
+      "admission_dates": "Fall 2023: Sept 1 - Sept 30",
+      "events": ["Alumni Reunion", "Welcome Week", "Winter Gala"],
+      "research_history": "Stanford is known for its groundbreaking research in various fields.",
+      "sports": ["Football","Baseball", "Swimming","Gymnastics"]
+    },    
+    {
+      "id": 4,
+      "name": "New York University",
+      "image": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2020/06/20170816_CL_DJA_152%281%29.jpg?itok=va4lLG5S",
+      "admission_dates": "Fall 2023: Nov 15 - Jan 31",
+      "events": ["Alumni Reunion", "Winter Ball", "Literary Festival"],
+      "research_history": "New York's research has shaped global policies and scientific discoveries.",
+      "sports": ["Lacrosse", "Gymnastics", "Water Polo"]
+    },
+    {
+      "id": 5,
+      "name": "University of Chicago",
+      "image": "https://news.wttw.com/sites/default/files/styles/full/public/article/image-non-gallery/UChicagoUpdate_0912.jpg?itok=tp_xkgJ3",
+      "admission_dates": "Fall 2023: Jan 1 - Mar 15",
+      "events": ["Annual Festival of Arts",  "Start-up Fair"],
+      "research_history": "Chicago's research contributions have been recognized worldwide.",
+      "sports": ["Rugby", "Golf", "Ultimate Frisbee"]
+    },
+    {
+      "id": 6,
+      "name": "University of Michigan",
+      "image": "https://images.shiksha.com/mediadata/images/1534833227phpo5CzKB.jpeg",
+      "admission_dates": "Fall 2023: Feb 1 - Apr 30",
+      "events": ["Alumni Reunion", "Science Fair", "Spring Carnival", "Entrepreneurship Summit"],
+      "research_history": "Michigan's research has pushed the boundaries of science.",
+      "sports": ["Badminton", "Soccer", "Table Tennis"]
+    },
+    {
+      "id": 7,
+      "name": "Columbia University",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/220911220609-columbia-university-campus-file.jpg?c=16x9&q=w_800,c_fill",
+      "admission_dates": "Fall 2023: Dec 1 - Feb 28",
+      "events": ["Alumni Reunion", "International Week", "Spring Concert", "Career Expo"],
+      "research_history": "Columbia has been at the forefront of groundbreaking research for decades.",
+      "sports": ["Gymnastics","Wrestling", "Archery", "Sailing"]
+    },
+    {
+      "id": 8,
+      "name": "University of Southern California",
+      "image": "https://www.upenn.edu/sites/default/files/styles/default/public/2020-11/p-100297-master-v1-075a-1600x800.jpg?itok=apAkEATX",
+      "admission_dates": "Fall 2023: Aug 1 - Sept 15",
+      "events": ["Alumni Reunion", "PennFest", "Tech Symposium"],
+      "research_history": "Southern California's research has made significant contributions to various fields.",
+      "sports": ["Basketball","Gymnastics", "Tennis", "Swimming"]
+    }
+  ]
